@@ -1,0 +1,9 @@
+[project]
+name = "tavalod-app"
+version = "1.0.0"
+description = "یادآور تولد شمسی"
+dependencies = [
+    "flet",
+    "jdatetime",
+    "flet-android-notifications",
+]
